@@ -7,6 +7,7 @@ import SecondSec from './Homepages/SecondSec'
 import ThirdSec from './Homepages/ThirdSec'
 import { Route, Routes } from 'react-router-dom'
 import FifthSec from './Homepages/FifthSec'
+import FourSec from './Homepages/FourSec'
 
 function App() {
  
@@ -23,7 +24,9 @@ function App() {
     <Firstsec/> 
     <SecondSec/>
     <ThirdSec/>
+    <FourSec/>
     <FifthSec/>
+    
   </>
 
   
